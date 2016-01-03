@@ -1,2 +1,5 @@
 /vendor
 .env
+config/facebook.php
+config/twitter.php
+config/linkedin.php
